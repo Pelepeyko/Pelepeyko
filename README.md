@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Pelepeyko
+- 👀 I’m interested in 1C, only 1C..
+- 🌱 I’m currently learning Java
